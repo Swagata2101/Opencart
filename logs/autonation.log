@@ -1,0 +1,6 @@
+20:20:21.713 [main] INFO  Testcase.TC001_AccountRegistrationTest - ***** Starting test case *********
+20:20:21.747 [main] INFO  Testcase.TC001_AccountRegistrationTest - Clicked to MY Account
+20:20:21.816 [main] INFO  Testcase.TC001_AccountRegistrationTest - Clicked on resiter.........
+20:20:22.363 [main] INFO  Testcase.TC001_AccountRegistrationTest - Providing Information........
+20:20:23.688 [main] INFO  Testcase.TC001_AccountRegistrationTest - ***** Finished test case
+20:20:35.815 [main] INFO  Testcase.TC002_LoginTest - ********* Starting testcase2 ********

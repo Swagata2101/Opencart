@@ -1,0 +1,12 @@
+Testcase\TC001_AccountRegistrationTest.class
+Opencart\loginaccount.class
+Testcase\BaseClass.class
+Utilities\ExcelUtility.class
+Testcase\TC003_LoginDDT.class
+Testcase\TC002_LoginTest.class
+Opencart\Accountresiter.class
+Opencart\BasePage.class
+Opencart\MyAccountPage.class
+Utilities\Dataprovider.class
+Opencart\HomePage.class
+Utilities\ExtentReportManager.class
